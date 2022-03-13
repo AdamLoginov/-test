@@ -1,1 +1,1 @@
-sdjkqwdknqwkld
+print('qwdqdqwd')
